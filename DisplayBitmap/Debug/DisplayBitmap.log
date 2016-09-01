@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\wilson ow\documents\visual studio 2015\projects\displaybitmap\displaybitmap\source.cpp(98): warning C4302: 'type cast': truncation from 'LPWSTR' to 'WORD'
+  DisplayBitmap.vcxproj -> c:\users\wilson ow\documents\visual studio 2015\Projects\DisplayBitmap\Debug\DisplayBitmap.exe
+  DisplayBitmap.vcxproj -> c:\users\wilson ow\documents\visual studio 2015\Projects\DisplayBitmap\Debug\DisplayBitmap.pdb (Full PDB)
